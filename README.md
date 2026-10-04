@@ -2,8 +2,6 @@
 
 # Hi, I'm tomo_tomato 👋
 
-[中文](README.md) | [English](README.en.md)
-
 **LLM Application Developer** — Agents · RAG · LLM Engineering
 
 </div>
