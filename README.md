@@ -2,8 +2,9 @@
 
 # Hi, I'm tomo_tomato 👋
 
-**LLM Application Developer** · Agents · RAG · LLM Engineering
-**大模型应用开发** · 专注 Agent 编排 / RAG 检索增强 / LLM 工程落地
+[中文](README.md) | [English](README.en.md)
+
+**LLM Application Developer** — Agents · RAG · LLM Engineering
 
 </div>
 
