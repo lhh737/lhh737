@@ -10,13 +10,13 @@
 
 ## 🚀 Featured Projects | 精选项目
 
-### [LangChain-ReAct-Agent](https://github.com/lhh737/LangChain-ReAct-Agent) &nbsp;⭐ 380
+### [LangChain-ReAct-Agent](https://github.com/lhh737/LangChain-ReAct-Agent) &nbsp;⭐ 390
 
 > 基于 LangChain / LangGraph 的 ReAct Agent 智能客服系统，集成 RAG 检索增强、多工具调用与动态提示词切换，Streamlit 流式展示推理链路。
 
 `Python` · `LangChain` · `LangGraph` · `RAG` · `Streamlit`
 
-### [KnowledgeBase-RAG-LLM-System](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System) &nbsp;⭐ 273
+### [KnowledgeBase-RAG-LLM-System](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System) &nbsp;⭐ 285
 
 > 基于 Streamlit + LangChain + Chroma 的轻量级本地知识库 RAG 问答系统，支持文件上传入库、向量检索与流式对话。
 
@@ -27,7 +27,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [Multi-Agent-DeepsearchSystem](https://github.com/lhh737/Multi-Agent-DeepsearchSystem) | Planner / Executor / Reporter / Critic 四 Agent 协作的深度研究系统，LLM-as-Judge 迭代优化 | LangGraph · FastAPI · Vue · PostgreSQL · Redis |
-| [rag-chinese-qa](https://github.com/lhh737/rag-chinese-qa) | 中文文档 RAG 问答，混合检索（FAISS + BM25）、HyDE 增强与 BGE 重排序 | LangChain · FAISS · BM25 · Gradio |
+| [rag-chinese-qa](https://github.com/lhh737/rag-chinese-qa) | 中文 RAG 文档问答（评测为主轴）：混合检索（RRF）+ 重排序 + 行内引用，自研 Judge 经人工盲标校准 | FastAPI · FAISS · BM25 · LLM-as-Judge |
 | [Qwen-Lora-finetune](https://github.com/lhh737/Qwen-Lora-finetune) | Qwen2.5 LoRA 指令微调全流程：数据准备 → 训练 → 评估 → 量化 | PEFT · TRL · Transformers |
 | [AI-Npc-Town](https://github.com/lhh737/AI-Npc-Town) | Godot + FastAPI + LLM Agent 的 AI NPC 交互小镇（开发中） | Godot · FastAPI · LLM Agent |
 
