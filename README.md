@@ -8,21 +8,21 @@
 
 ---
 
-## 🚀 Featured Projects | 精选项目
+## Featured Projects | 精选项目
 
-### [LangChain-ReAct-Agent](https://github.com/lhh737/LangChain-ReAct-Agent) &nbsp;⭐ 390
+### [LangChain-ReAct-Agent](https://github.com/lhh737/LangChain-ReAct-Agent)
 
 > 基于 LangChain / LangGraph 的 ReAct Agent 智能客服系统，集成 RAG 检索增强、多工具调用与动态提示词切换，Streamlit 流式展示推理链路。
 
 `Python` · `LangChain` · `LangGraph` · `RAG` · `Streamlit`
 
-### [KnowledgeBase-RAG-LLM-System](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System) &nbsp;⭐ 285
+### [KnowledgeBase-RAG-LLM-System](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System)
 
 > 基于 Streamlit + LangChain + Chroma 的轻量级本地知识库 RAG 问答系统，支持文件上传入库、向量检索与流式对话。
 
 `Python` · `LangChain` · `Chroma` · `RAG` · `Streamlit`
 
-## 📦 More Projects | 更多项目
+## More Projects | 更多项目
 
 | Project | Description | Stack |
 |---|---|---|
@@ -31,7 +31,7 @@
 | [Qwen-Lora-finetune](https://github.com/lhh737/Qwen-Lora-finetune) | Qwen2.5 LoRA 指令微调全流程：数据准备 → 训练 → 评估 → 量化 | PEFT · TRL · Transformers |
 | [AI-Npc-Town](https://github.com/lhh737/AI-Npc-Town) | Godot + FastAPI + LLM Agent 的 AI NPC 交互小镇（开发中） | Godot · FastAPI · LLM Agent |
 
-## 🛠 Tech Stack | 技术栈
+## Tech Stack | 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
